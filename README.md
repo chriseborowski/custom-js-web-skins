@@ -2,7 +2,7 @@
 
 [View demo](https://codepen.io/chriseborowski/pen/xxQRKeK) • [Report bug](https://github.com/chriseborowski/custom-js-web-skins) • [Request feature](https://github.com/chriseborowski/custom-js-web-skins) • [DM author](https://twitter.com/chriseborowski)
 
-![Live demo](https://github.com/chriseborowski/random6/blob/main/live-demo.png)
+![Live demo](https://github.com/chriseborowski/custom-js-web-skins/blob/main/live-demo.png)
 
 ## About
 
