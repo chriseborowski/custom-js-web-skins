@@ -83,9 +83,8 @@
 .dropdown:hover .dropdown-menu {
   display: flex;
   position: fixed;
-  width: 100%;
+  width: 50%;
   margin: 20;
-  height: 52px;
 }
 
 .dropdown-column {
