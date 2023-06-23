@@ -26,16 +26,13 @@ For a video clip demonstrating the functionality, click [here](https://twitter.c
 
 ## Roadmap
 
-Steps completed:
+The development has been completed.
 
 - [x] Initial version released
 - [x] Initial HTML, CSS, and JavaScript files created
 - [x] Live demo on CodePen created 
 - [x] README.md description created
-
-Steps to be completed:
-
-- [-] Fix the extra white spacing in the dropdown menu
+- [x] Fixed extra white spacing in dropdown menu
 
 ## License
 
